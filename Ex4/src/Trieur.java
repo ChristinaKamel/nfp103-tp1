@@ -1,6 +1,6 @@
 /**
  * Tri d'un tableau d'entiers
- * Version mono-thread
+ * Version multi-thread avec join
  */
 public class Trieur extends Thread{
 
